@@ -1,9 +1,6 @@
-appunti_python
-==============
+# Canederli Code
 
-appunti di un apprendista di python
+I love coding, but I'm not a professional programmer. Until today, I've kept my code to myself.  Now I've decided to publish it - why not? The code is as is, but you might find some scripts useful.
 
-Dopo decenni di sviluppo in java, l'anno scorso ho deciso di imparare a programmare in python.
-Il problema è che il mio setting mentale è molto orientato a java, e dunque mi risulta difficile ricordare anche le cose più semplici in python.
+Why did I call this repository canederliCode? Because it's mainly spaghetti code. I'm Italian and live in Trentino, a region in northern Italy. Canederli (Knödels) are a typical dish from my region. So, this repository isn't a collection of spaghetti code, but rather canederli code.
 
-In questo progettino voglio semplicemente salvare alcune note ed esempi di base, in modo da poterli recuperare ogni volta che mi servono.
